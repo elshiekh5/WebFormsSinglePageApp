@@ -1,0 +1,252 @@
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\ApplicationInsights.config
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\csc.exe
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\vbc.exe
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll.config
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.pdb
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Web.Infrastructure.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Owin.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\WebGrease.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.pdb
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csprojResolveAssemblyReference.cache
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.pdb
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\a.elsheikh\documents\visual studio 2015\Projects\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\ApplicationInsights.config
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\csc.exe
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Collections.Immutable.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Reflection.Metadata.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\vbc.exe
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe.config
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll.config
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.pdb
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.jQuery.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Owin.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\WebGrease.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.pdb
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csprojResolveAssemblyReference.cache
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csproj.CoreCompileInputs.cache
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.dll
+E:\Work\ELS\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.pdb
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\ApplicationInsights.config
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\csc.exe
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Collections.Immutable.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\vbc.exe
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\roslyn\VBCSCompiler.exe.config
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll.config
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\SinglePageAppWebForms.pdb
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\AspNet.ScriptManager.jQuery.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Web.Infrastructure.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Owin.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\WebGrease.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.Web.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AI.WindowsServer.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.ApplicationInsights.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Optimization.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Antlr3.Runtime.pdb
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Newtonsoft.Json.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\EntityFramework.SqlServer.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\System.Web.Providers.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Google.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csprojAssemblyReference.cache
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csproj.CoreCompileInputs.cache
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.csproj.CopyComplete
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.dll
+E:\Repos\SinglePageAppWebForms\SinglePageAppWebForms\obj\Debug\SinglePageAppWebForms.pdb

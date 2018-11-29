@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SinglePageAppModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SinglePageAppEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="SinglePageAppModel.Category" />
+    <EntitySet Name="Posts" EntityType="SinglePageAppModel.Post" />
+    <EntitySet Name="Sessions" EntityType="SinglePageAppModel.Session" />
+    <AssociationSet Name="FK_Posts_Categories" Association="SinglePageAppModel.FK_Posts_Categories">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+    <AssociationSet Name="PostsCategories" Association="SinglePageAppModel.PostsCategories">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SessionID" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Posts" Relationship="SinglePageAppModel.FK_Posts_Categories" FromRole="Category" ToRole="Post" />
+    <NavigationProperty Name="Posts1" Relationship="SinglePageAppModel.PostsCategories" FromRole="Category" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="PostID" />
+    </Key>
+    <Property Name="PostID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SessionID" Type="Int32" Nullable="false" />
+    <Property Name="CategoryID" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Brief" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="SinglePageAppModel.FK_Posts_Categories" FromRole="Post" ToRole="Category" />
+    <NavigationProperty Name="Categories" Relationship="SinglePageAppModel.PostsCategories" FromRole="Post" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="Session">
+    <Key>
+      <PropertyRef Name="SessionID" />
+    </Key>
+    <Property Name="SessionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SessionIdentifier" Type="Binary" Nullable="false" MaxLength="50" FixedLength="false" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <Association Name="FK_Posts_Categories">
+    <End Type="SinglePageAppModel.Category" Role="Category" Multiplicity="1" />
+    <End Type="SinglePageAppModel.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryID" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PostsCategories">
+    <End Type="SinglePageAppModel.Category" Role="Category" Multiplicity="*" />
+    <End Type="SinglePageAppModel.Post" Role="Post" Multiplicity="*" />
+  </Association>
+</Schema>
